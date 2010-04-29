@@ -1,0 +1,15 @@
+Source: elementary-wallpapers
+Section: x11
+Priority: optional
+Maintainer: ammonkey <am.monkeyd@gmail.com>
+Vcs-Bzr: https://launchpad.net/~elementaryart
+Build-Depends: debhelper (>= 5), cdbs, python, python-central
+Build-Depends-Indep: python-distutils-extra, xsltproc
+XS-Python-Version: all
+Standards-Version: 3.8.4
+
+Package: elementary-wallpapers
+Architecture: all
+Depends: ${misc:Depends}
+Description: ElementaryOS Wallpapers
+ This is a special selection of wallpapers that ships with elementary OS.
