@@ -73,4 +73,12 @@
     <scolor>#848484</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper>
+    <name>Water Lilly</name>
+    <filename>/usr/share/backgrounds/Water Lilly.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 </wallpapers>
