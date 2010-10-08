@@ -42,8 +42,8 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Reborn</name>
-    <filename>/usr/share/backgrounds/Reborn.png</filename>
+    <name>Relax</name>
+    <filename>/usr/share/backgrounds/Relax.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
