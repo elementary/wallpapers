@@ -2,6 +2,14 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
+    <name>16</name>
+    <filename>/usr/share/backgrounds/16.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
     <name>Classic Wood</name>
     <filename>/usr/share/backgrounds/Classic Wood.png</filename>
     <options>zoom</options>
@@ -58,14 +66,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Somewhere Far Away</name>
-    <filename>/usr/share/backgrounds/Somewhere Far Away.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <name>Star River</name>
     <filename>/usr/share/backgrounds/Star River.jpg</filename>
     <options>zoom</options>
@@ -76,6 +76,14 @@
   <wallpaper>
     <name>Tiny World</name>
     <filename>/usr/share/backgrounds/Tiny World.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Urban Dream</name>
+    <filename>/usr/share/backgrounds/Urban Deam.png</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
