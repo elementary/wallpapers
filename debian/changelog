@@ -1,3 +1,9 @@
+elementary-wallpapers (0.1.4-1) lucid; urgency=low
+
+  * Fixed packaging and simplified it greatly
+
+ -- Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>  Wed, 08 Jun 2011 15:01:50 +0400
+
 elementary-wallpapers (0.1.4) lucid; urgency=low
 
   * elementary wallpapers package
