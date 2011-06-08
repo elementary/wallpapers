@@ -50,14 +50,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Maple Leaf</name>
-    <filename>/usr/share/backgrounds/Maple Leaf.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <name>Relax</name>
     <filename>/usr/share/backgrounds/Relax.jpg</filename>
     <options>zoom</options>
