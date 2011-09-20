@@ -10,5 +10,6 @@ Standards-Version: 3.8.4
 Package: elementary-wallpapers
 Architecture: all
 Depends: ${misc:Depends}
+Pre-Depends: dpkg (>= 1.15.6)
 Description: ElementaryOS Wallpapers
  This is a special selection of wallpapers that ships with elementary OS.
