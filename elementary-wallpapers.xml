@@ -2,8 +2,56 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
+    <name>2</name>
+    <filename>/usr/share/backgrounds/2.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
     <name>16</name>
     <filename>/usr/share/backgrounds/16.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>94</name>
+    <filename>/usr/share/backgrounds/94.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>159</name>
+    <filename>/usr/share/backgrounds/159.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>164</name>
+    <filename>/usr/share/backgrounds/164.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>168</name>
+    <filename>/usr/share/backgrounds/168.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>173</name>
+    <filename>/usr/share/backgrounds/173.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
@@ -26,16 +74,32 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Deep Blue</name>
-    <filename>/usr/share/backgrounds/Deep Blue.jpg</filename>
+    <name>Galaxy NGC 3190</name>
+    <filename>/usr/share/backgrounds/GalaxyNGC3190.png</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Glow</name>
-    <filename>/usr/share/backgrounds/Glow.jpg</filename>
+    <name>Horseshoe Bend Sunset</name>
+    <filename>/usr/share/backgrounds/Horseshoe Bend Sunset.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Lake McDonald</name>
+    <filename>/usr/share/backgrounds/Lake McDonald.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Lake Tahoe Colors</name>
+    <filename>/usr/share/backgrounds/Lake Tahoe Colors.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
@@ -50,6 +114,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
+    <name>Lighthouse</name>
+    <filename>/usr/share/backgrounds/Lighthouse.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
     <name>Luna Pre-release</name>
     <filename>/usr/share/backgrounds/luna-prerelease.png</filename>
     <options>zoom</options>
@@ -58,8 +130,40 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Relax</name>
-    <filename>/usr/share/backgrounds/Relax.jpg</filename>
+    <name>Morning</name>
+    <filename>/usr/share/backgrounds/morning.jpg.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Myriads of Moods</name>
+    <filename>/usr/share/backgrounds/Myriads of Moods.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Our Night Under The Stars</name>
+    <filename>/usr/share/backgrounds/Our Night Under The Stars.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Paris, la Tour Eiffel</name>
+    <filename>/usr/share/backgrounds/Paris la Tour Eiffel.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Specs of Light and Water</name>
+    <filename>/usr/share/backgrounds/Specs of Light and Water.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
@@ -74,8 +178,24 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tiny World</name>
-    <filename>/usr/share/backgrounds/Tiny World.jpg</filename>
+    <name>Temple</name>
+    <filename>/usr/share/backgrounds/Temple.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>The Coast</name>
+    <filename>/usr/share/backgrounds/The Coast.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tunnel</name>
+    <filename>/usr/share/backgrounds/Tunnel.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
@@ -90,8 +210,8 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Water Lilly</name>
-    <filename>/usr/share/backgrounds/Water Lilly.jpg</filename>
+    <name>Water Lily</name>
+    <filename>/usr/share/backgrounds/Water Lily.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
