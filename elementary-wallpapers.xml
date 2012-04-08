@@ -58,14 +58,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Classic Wood</name>
-    <filename>/usr/share/backgrounds/Classic Wood.png</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <name>Cold Evening</name>
     <filename>/usr/share/backgrounds/Cold Evening.png</filename>
     <options>zoom</options>
