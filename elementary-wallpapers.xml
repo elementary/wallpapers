@@ -59,15 +59,7 @@
   </wallpaper>
   <wallpaper>
     <name>Cold Evening</name>
-    <filename>/usr/share/backgrounds/Cold Evening.png</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Galaxy NGC 3190</name>
-    <filename>/usr/share/backgrounds/GalaxyNGC3190.png</filename>
+    <filename>/usr/share/backgrounds/Cold Evening.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
@@ -130,14 +122,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Myriads of Moods</name>
-    <filename>/usr/share/backgrounds/Myriads of Moods.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <name>Our Night Under The Stars</name>
     <filename>/usr/share/backgrounds/Our Night Under The Stars.jpg</filename>
     <options>zoom</options>
@@ -148,14 +132,6 @@
   <wallpaper>
     <name>Paris, la Tour Eiffel</name>
     <filename>/usr/share/backgrounds/Paris la Tour Eiffel.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Specs of Light and Water</name>
-    <filename>/usr/share/backgrounds/Specs of Light and Water.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
@@ -195,7 +171,7 @@
   </wallpaper>
   <wallpaper>
     <name>Urban Dream</name>
-    <filename>/usr/share/backgrounds/Urban Deam.png</filename>
+    <filename>/usr/share/backgrounds/Urban Deam.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
