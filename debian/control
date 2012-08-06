@@ -1,14 +1,14 @@
 Source: elementary-wallpapers
 Section: x11
 Priority: optional
-Maintainer: ammonkey <am.monkeyd@gmail.com>
+Maintainer: Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>
 Vcs-Bzr: https://launchpad.net/~elementaryart
-Build-Depends: debhelper (>= 7)
+Build-Depends: debhelper (>= 7.0.50~)
 XS-Python-Version: all
 Standards-Version: 3.8.4
 
 Package: elementary-wallpapers
 Architecture: all
 Depends: ${misc:Depends}
-Description: ElementaryOS Wallpapers
- This is a special selection of wallpapers that ships with elementary OS.
+Description: elementary OS Wallpapers
+ A special selection of wallpapers that ships with elementary OS.
