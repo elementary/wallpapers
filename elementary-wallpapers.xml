@@ -58,6 +58,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
+    <name>ARTcast</name>
+    <filename>/usr/share/backgrounds/ARTcast.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>>
+  <wallpaper>
     <name>Cold Evening</name>
     <filename>/usr/share/backgrounds/Cold Evening.jpg</filename>
     <options>zoom</options>
@@ -68,14 +76,6 @@
   <wallpaper>
     <name>Horseshoe Bend Sunset</name>
     <filename>/usr/share/backgrounds/Horseshoe Bend Sunset.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Lake McDonald</name>
-    <filename>/usr/share/backgrounds/Lake McDonald.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
@@ -132,14 +132,6 @@
   <wallpaper>
     <name>Paris, la Tour Eiffel</name>
     <filename>/usr/share/backgrounds/Paris la Tour Eiffel.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Star River</name>
-    <filename>/usr/share/backgrounds/Star River.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
