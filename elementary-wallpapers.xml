@@ -98,16 +98,16 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Luna Pre-release</name>
-    <filename>/usr/share/backgrounds/luna-prerelease.png</filename>
+    <name>Living Stones</name>
+    <filename>/usr/share/backgrounds/Living Stones.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Morning</name>
-    <filename>/usr/share/backgrounds/morning.jpg</filename>
+    <name>Luna Pre-release</name>
+    <filename>/usr/share/backgrounds/luna-prerelease.png</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
