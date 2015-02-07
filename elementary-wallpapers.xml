@@ -58,14 +58,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>ARTcast</name>
-    <filename>/usr/share/backgrounds/ARTcast.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>>
-  <wallpaper>
     <name>Cold Evening</name>
     <filename>/usr/share/backgrounds/Cold Evening.jpg</filename>
     <options>zoom</options>
@@ -76,6 +68,14 @@
   <wallpaper>
     <name>Horseshoe Bend Sunset</name>
     <filename>/usr/share/backgrounds/Horseshoe Bend Sunset.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Jonas Nilsson Lee</name>
+    <filename>/usr/share/backgrounds/Jonas Nilsson Lee.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
@@ -98,14 +98,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Lighthouse</name>
-    <filename>/usr/share/backgrounds/Lighthouse.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <name>Luna Pre-release</name>
     <filename>/usr/share/backgrounds/luna-prerelease.png</filename>
     <options>zoom</options>
@@ -115,15 +107,15 @@
   </wallpaper>
   <wallpaper>
     <name>Morning</name>
-    <filename>/usr/share/backgrounds/morning.jpg.jpg</filename>
+    <filename>/usr/share/backgrounds/morning.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Our Night Under The Stars</name>
-    <filename>/usr/share/backgrounds/Our Night Under The Stars.jpg</filename>
+    <name>Mr. Lee</name>
+    <filename>/usr/share/backgrounds/Mr. Lee.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
@@ -138,8 +130,8 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Temple</name>
-    <filename>/usr/share/backgrounds/Temple.jpg</filename>
+    <name>Ryan Schroeder</name>
+    <filename>/usr/share/backgrounds/Ryan Schroeder.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
@@ -172,6 +164,14 @@
   <wallpaper>
     <name>Water Lily</name>
     <filename>/usr/share/backgrounds/Water Lily.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Wild Night</name>
+    <filename>/usr/share/backgrounds/Wild Night.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
