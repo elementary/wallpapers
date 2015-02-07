@@ -26,14 +26,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>159</name>
-    <filename>/usr/share/backgrounds/159.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#848484</pcolor>
-    <scolor>#848484</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <name>164</name>
     <filename>/usr/share/backgrounds/164.jpg</filename>
     <options>zoom</options>
@@ -132,6 +124,14 @@
   <wallpaper>
     <name>Ryan Schroeder</name>
     <filename>/usr/share/backgrounds/Ryan Schroeder.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#848484</pcolor>
+    <scolor>#848484</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Samuel Zeller</name>
+    <filename>/usr/share/backgrounds/Samuel Zeller.jpg</filename>
     <options>zoom</options>
     <pcolor>#848484</pcolor>
     <scolor>#848484</scolor>
