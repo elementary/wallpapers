@@ -10,8 +10,6 @@ Standards-Version: 3.8.4
 Package: elementary-wallpapers
 Architecture: all
 Depends: ${misc:Depends}
-Conflicts: elementary-os-beta-transition
-Replaces: elementary-os-beta-transition
 Description: elementary OS Wallpapers
  A special selection of wallpapers that ships with elementary OS.
 
