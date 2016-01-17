@@ -9,6 +9,5 @@ This is currently a private repo to collect wallpapers for elementary OS. Eventu
 2. Fork the project and add the wallpaper to the `loki` folder
 3. Add license info to the `loki/copyright` file
 4. Create a pull request.
-5. 
 
 Lots of wallpapers will be accepted into this repo for consideration, but we will trim it down to our favorited before release.
