@@ -13,6 +13,7 @@ Also keep in mind the desktop environment: elementary OS has a transparent panel
 * No people
 * We prefer photographic wallpapers, but digital/abstract isn't 100% out of the question
 * We prefer not to have photos with a single domesticated animal as a focus point
+* Wallpapers should be at least 3200×1800px
 
 ## To add a wallpaper for Loki
 
