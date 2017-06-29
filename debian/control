@@ -11,9 +11,3 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: elementary OS Wallpapers
  A special selection of wallpapers that ships with elementary OS.
-
-Package: elementary-wallpapers-extra
-Architecture: all
-Depends: ${misc:Depends}, elementary-wallpapers
-Description: extra elementary OS Wallpapers
- Wallpapers formerly shipped with elementary OS by default.
