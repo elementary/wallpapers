@@ -15,11 +15,12 @@ Also keep in mind the desktop environment: elementary OS has a transparent panel
 * We prefer not to have photos with a single domesticated animal as a focus point
 * Wallpapers should be at least 3200×1800px
 
-## To add a wallpaper for Loki
+## To submit a wallpaper
 
 1. Make sure your wallpaper is openly-licensed and okay for commercial use
 2. Fork the project and add the wallpaper
 3. Add license info to the `debian/copyright` file
-4. Create a pull request.
+4. Add artist exif metadata using command `exiftool -artist="Vincent van Gogh" The\ Starry\ Night.jpg`
+5. Create a pull request.
 
 Very few pull requests will be accepted

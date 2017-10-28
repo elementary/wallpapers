@@ -8,7 +8,7 @@
   - [ ] The name of the wallpaper and/or its original author
   - [ ] A link to where it can be downloaded
   - [ ] Included under the respective license section (or created a new one if appropriate)
-
+- [ ] I've added the artist metadata using `exiftool`
 ## Why it should be included:
 
 
