@@ -1,3 +1,9 @@
+elementary-wallpapers (5.0) bionic; urgency=medium
+
+  * New upstream release.
+
+ -- Cody Garver <cody@elementary.io>  Thu, 01 Mar 2018 08:59:18 -0600
+
 elementary-wallpapers (0.1.4-1) lucid; urgency=low
 
   * Fixed packaging and simplified it greatly
