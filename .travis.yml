@@ -8,7 +8,7 @@ env:
 
 install:
  - docker pull elementary/docker:loki
- - docker run -v "$PWD":/tmp/build-dir elementary/docker:loki /bin/sh -c "apt-get update && apt-get -y install $DEPENDENCY_PACKAGES && cd /tmp/build-dir && meson build --prefix=/usr && ninja build test"
+ - docker run -v "$PWD":/tmp/build-dir elementary/docker:loki /bin/sh -c "apt-get update && apt-get -y install $DEPENDENCY_PACKAGES && cd /tmp/build-dir && meson build --prefix=/usr && ninja -C build test"
 
 script:
 - echo BUILDS PASSED
