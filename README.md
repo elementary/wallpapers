@@ -21,6 +21,8 @@ Also keep in mind the desktop environment: elementary OS has a transparent panel
 2. Fork the project and add the wallpaper
 3. Add license info to the `debian/copyright` file
 4. Add artist exif metadata using command `exiftool -artist="Vincent van Gogh" The\ Starry\ Night.jpg`
-5. Create a pull request.
+5. Add your wallpaper to the `meson.build` file
+6. Test your changes by running `meson build --prefix=/usr && cd build && ninja test`
+7. Create a pull request.
 
 Very few pull requests will be accepted

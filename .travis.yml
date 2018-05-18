@@ -4,7 +4,7 @@ services:
  - docker
 
 env:
- - DEPENDENCY_PACKAGES="exif meson"
+ - DEPENDENCY_PACKAGES="exif meson valac"
 
 install:
  - docker pull elementary/docker:loki
