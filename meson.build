@@ -1,4 +1,4 @@
-project('io.elementary.wallpapers', 'c')
+project('io.elementary.wallpapers')
 
 wallpapers = [
     'Ashim DSilva.jpg',
