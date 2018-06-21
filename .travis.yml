@@ -1,9 +1,14 @@
----
+language: generic
 
-language: bash
+services:
+ - docker
 
-sudo: true
+env:
+ - DEPENDENCY_PACKAGES="exif meson gcc"
 
-before_script: sudo apt-get install -y exif
+install:
+ - docker pull elementary/docker:juno-unstable
+ - docker run -v "$PWD":/tmp/build-dir elementary/docker:loki /bin/sh -c "apt-get update && apt-get -y install $DEPENDENCY_PACKAGES && cd /tmp/build-dir && meson build --prefix=/usr && ninja -C build test"
 
-script: bash tests.sh
+script:
+- echo BUILDS PASSED

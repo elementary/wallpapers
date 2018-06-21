@@ -3,8 +3,10 @@ Section: x11
 Priority: optional
 Maintainer: Cody Garver <cody@elementary.io>
 Vcs-Git: https://github.com/elementary/wallpapers.git
-Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 10.5.1),
+               exif,
+               meson
+Standards-Version: 4.1.1
 
 Package: elementary-wallpapers
 Architecture: all
