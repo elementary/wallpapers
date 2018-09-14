@@ -15,6 +15,14 @@ Also keep in mind the desktop environment: elementary OS has a transparent panel
 * We prefer not to have photos with a single domesticated animal as a focus point
 * Wallpapers should be at least 3200×1800px
 
+### For Reference
+
+elementary OS desktop, with the adaptive light and dark panel based on the wallpaper:
+
+| Light Wallpaper                           | Dark Wallpaper                           |
+| ----------------------------------------- | ---------------------------------------- |
+| ![Light](https://i.imgur.com/xpjjOxJ.png) | ![Dark](https://i.imgur.com/CzFvBj2.png) |
+
 ## To submit a wallpaper
 
 1. Make sure your wallpaper is openly-licensed and okay for commercial use
