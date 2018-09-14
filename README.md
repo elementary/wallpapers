@@ -23,6 +23,8 @@ elementary OS desktop, with the adaptive light and dark panel based on the wallp
 | ----------------------------------------- | ---------------------------------------- |
 | ![Light](https://i.imgur.com/xpjjOxJ.png) | ![Dark](https://i.imgur.com/CzFvBj2.png) |
 
+You should avoid busy parts of the wallpaper in the top panel and bottom dock areas.
+
 ## To submit a wallpaper
 
 1. Make sure your wallpaper is openly-licensed and okay for commercial use
