@@ -4,7 +4,7 @@
   - [ ] No text or logos
   - [ ] No people
   - [ ] At least 3200×1800 px
-- [ ] I've upated `debian/copyright` with:
+- [ ] I've updated `debian/copyright` with:
   - [ ] The name of the wallpaper and/or its original author
   - [ ] A link to where it can be downloaded
   - [ ] Included under the respective license section (or created a new one if appropriate)
