@@ -9,5 +9,15 @@ Standards-Version: 3.9.6
 Package: elementary-wallpapers
 Architecture: all
 Depends: ${misc:Depends}
+Conflicts: elementary-os-prerelease
+Replaces: elementary-os-prerelease
 Description: elementary OS Wallpapers
  A special selection of wallpapers that ships with elementary OS.
+
+Package: elementary-os-prerelease
+Section: oldlibs
+Priority: optional
+Architecture: any
+Depends: pantheon-photos, ${misc:Depends}
+Description: Dummy transitional package
+ Dummy transitional package, safe to remove.
