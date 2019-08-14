@@ -40,7 +40,7 @@ Due to the nature of this repository, very few pull requests will be accepted.
 Acceptable licenses include:
 
 1. Public domain (preferred)
-2. [Unplash License](https://unsplash.com/license)
+2. [Unsplash License](https://unsplash.com/license)
 3. A Creative Commons license that allows commercial use. Share-Alike and Attribution are allowed.
 
 Individual wallpapers will be evaluated to ensure they meet the licensing requirements.
