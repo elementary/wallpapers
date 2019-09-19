@@ -27,10 +27,20 @@ You should avoid busy parts of the wallpaper in the top panel and bottom dock ar
 
 ## To submit a wallpaper
 
-1. Make sure your wallpaper is openly-licensed and okay for commercial use
+1. Make sure your wallpaper is openly-licensed and okay for commercial use (see below)
 2. Fork the project and add the wallpaper
 3. Add license info to the `debian/copyright` file
 4. Add artist exif metadata using command `exiftool -artist="Vincent van Gogh" The\ Starry\ Night.jpg`
 5. Create a pull request.
 
-Very few pull requests will be accepted
+Due to the nature of this repository, very few pull requests will be accepted.
+
+## Licensing
+
+Acceptable licenses include:
+
+1. Public domain (preferred)
+2. [Unsplash License](https://unsplash.com/license)
+3. A Creative Commons license that allows commercial use. Share-Alike and Attribution are allowed.
+
+Individual wallpapers will be evaluated to ensure they meet the licensing requirements.
