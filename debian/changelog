@@ -1,12 +1,11 @@
 elementary-wallpapers (5.4) bionic; urgency=medium
 
-  [ elementary, Inc. ]
   * Fix white pixel in Ashim DSilva
   * Add Nattu Adnan wallpaper
   * Add Canazei Granite Ridges wallpaper
   * Add Julia Craice wallpaper
 
- -- Cassidy James Blaede <cassidyjames@Precision>  Thu, 26 Sep 2019 23:23:29 -0600
+ -- elementary, Inc. <builds@elementary.io>  Thu, 26 Sep 2019 23:23:29 -0600
 
 elementary-wallpapers (5.3) bionic; urgency=medium
 
