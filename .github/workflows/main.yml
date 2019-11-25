@@ -15,7 +15,7 @@ jobs:
     - name: Install Dependencies
       run: |
         apt update
-        apt install -y exiftool meson
+        apt install -y exif meson
     - name: Test Metadata
       run: bash tests.sh
     - name: Build
