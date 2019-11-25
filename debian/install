@@ -1,1 +1,3 @@
 /usr/share/backgrounds
+# Enable when there is not prerelease package for elementaryos-default to conflict with
+elementaryos-default /usr/share/backgrounds
