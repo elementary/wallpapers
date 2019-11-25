@@ -1,3 +1,20 @@
+elementary-wallpapers (5.5.0) bionic; urgency=medium
+
+  * Release 5.5.0 (#87)
+  * Add Release to Actions
+  * Run test script with GitHub Actions (#86)
+  * Add AppData (#85)
+  * Update main.yml
+  * Add Build CI to Actions
+  * Add symlink back to master
+  * Split deb packaging into its own branch
+  * Use Meson build system (#84)
+  * Delete CODE_OF_CONDUCT.md
+  * Refix white pixel in Ashim DSilva (#83)
+  * Redo 5.1 symlink (#81)
+
+ -- elementary, Inc. <builds@elementary.io>  Mon, 25 Nov 2019 23:04:19 +0000
+
 elementary-wallpapers (5.4) bionic; urgency=medium
 
   * Fix white pixel in Ashim DSilva
