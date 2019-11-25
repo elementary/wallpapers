@@ -17,8 +17,6 @@ jobs:
         apt update
         apt install -y meson
     - name: Build
-      env:
-        DESTDIR: out
       run: |
         meson build
         ninja -C build
