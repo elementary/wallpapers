@@ -3,7 +3,8 @@ Section: x11
 Priority: optional
 Maintainer: elementary, Inc. <builds@elementary.io>
 Vcs-Git: https://github.com/elementary/wallpapers.git
-Build-Depends: debhelper (>= 10.5.1)
+Build-Depends: debhelper (>= 10.5.1),
+               meson
 Standards-Version: 4.1.1
 
 Package: elementary-wallpapers
