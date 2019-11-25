@@ -6,16 +6,18 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-    
+
     container:
       image: elementary/docker:unstable
-    
+
     steps:
     - uses: actions/checkout@v1
     - name: Install Dependencies
       run: |
         apt update
-        apt install -y meson
+        apt install -y exiftool meson
+    - name: Test Metadata
+      run: bash tests.sh
     - name: Build
       run: |
         meson build
