@@ -1,0 +1,33 @@
+# Sinhala translations for extra package.
+# Copyright (C) 2019 THE extra'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the extra package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-25 12:35-0800\n"
+"PO-Revision-Date: 2019-11-25 12:35-0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/wallpapers.appdata.xml.in:7
+msgid "elementary Wallpapers"
+msgstr ""
+
+#: data/wallpapers.appdata.xml.in:8
+msgid "Curated wallpapers for elementary OS"
+msgstr ""
+
+#: data/wallpapers.appdata.xml.in:13
+msgid "Change default to Sunset by the Pier"
+msgstr ""
+
+#: data/wallpapers.appdata.xml.in:48
+msgid "elementary, Inc."
+msgstr ""
