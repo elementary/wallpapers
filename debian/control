@@ -1,10 +1,11 @@
 Source: elementary-wallpapers
 Section: x11
 Priority: optional
-Maintainer: Cody Garver <cody@elementary.io>
+Maintainer: elementary, Inc. <builds@elementary.io>
 Vcs-Git: https://github.com/elementary/wallpapers.git
-Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 10.5.1),
+               meson
+Standards-Version: 4.1.1
 
 Package: elementary-wallpapers
 Architecture: all
@@ -13,11 +14,3 @@ Conflicts: elementary-os-prerelease
 Replaces: elementary-os-prerelease
 Description: elementary OS Wallpapers
  A special selection of wallpapers that ships with elementary OS.
-
-Package: elementary-os-prerelease
-Section: oldlibs
-Priority: optional
-Architecture: any
-Depends: pantheon-photos, ${misc:Depends}
-Description: Dummy transitional package
- Dummy transitional package, safe to remove.

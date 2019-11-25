@@ -14,7 +14,7 @@ test_artist () {
     fi
 }
 
-for WALLPAPER in *.jpg
+for WALLPAPER in backgrounds/*.jpg
 do
     test_artist "$WALLPAPER"
 done
