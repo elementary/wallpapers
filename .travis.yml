@@ -1,9 +1,0 @@
----
-
-language: bash
-
-sudo: true
-
-before_script: sudo apt-get install -y exif
-
-script: bash tests.sh
