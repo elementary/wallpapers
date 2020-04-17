@@ -11,6 +11,7 @@ Also keep in mind the desktop environment: elementary OS has a transparent panel
 * Not too distracting if a non-maximized window is open
 * No text or logos
 * No people
+* Avoid grainy textures
 * We prefer photographic wallpapers, but digital/abstract isn't 100% out of the question
 * We prefer not to have photos with a single domesticated animal as a focus point
 * Wallpapers should be at least 3200×1800px
