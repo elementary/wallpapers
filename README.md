@@ -31,8 +31,9 @@ You should avoid busy parts of the wallpaper in the top panel and bottom dock ar
 1. Make sure your wallpaper is openly-licensed and okay for commercial use (see below)
 2. Fork the project and add the wallpaper
 3. Add license info to the `debian/copyright` file
-4. Add artist exif metadata using command `exiftool -artist="Vincent van Gogh" The\ Starry\ Night.jpg`
-5. Create a pull request.
+4. Add artist exif metadata using command `exiftool -artist="Ashim D'Silva" backgrounds/Ashim\ DSilva.jpg`
+5. Add accent color exif metadata using command `exiftool -config exif.cfg -AccentColor=orange backgrounds/Ashim\ DSilva.jpg`
+6. Create a pull request.
 
 Due to the nature of this repository, very few pull requests will be accepted.
 
