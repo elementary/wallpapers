@@ -15,7 +15,7 @@ jobs:
     - name: Install Dependencies
       run: |
         apt update
-        apt install -y exif meson
+        apt install -y libgexiv2-dev meson valac
     - name: Test Metadata
       run: bash tests.sh
     - name: Build
