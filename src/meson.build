@@ -9,5 +9,5 @@ executable(
         glib_dep,
         gexiv2_dep,
     ],
-    install: true,
+    install: false,
 )
