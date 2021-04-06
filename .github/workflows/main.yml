@@ -16,10 +16,12 @@ jobs:
       run: |
         apt update
         apt install -y libgexiv2-dev meson valac
-    - name: Test Metadata
-      run: bash tests.sh
     - name: Build
       run: |
         meson build
         ninja -C build
+    - name: Test Metadata
+      run: bash tests.sh
+    - name: Install
+      run: |
         ninja -C build install
