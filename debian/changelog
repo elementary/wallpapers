@@ -1,3 +1,28 @@
+elementary-wallpapers (6.0.0) bionic; urgency=medium
+
+  * Release 6.0.0 (#156)
+  * Fix default symlink (#151)
+  * Change default wallpaper to Odin by Freehive (#150)
+  * Odin wallpapers: updated versions from June 7 (#149)
+  * Add Odin wallpapers from Freehive (#147)
+  * Accent color (#138)
+  * Set default to Tj Holowaychuk.jpg (#136)
+  * Add Martin Adams (#134)
+  * Remove Luca Bravo (#129)
+  * Remove Rob Bye (#126)
+  * Add Viktor Forgacs wallpaper (#92)
+  * Add Tj Holowaychuk (#122)
+  * README: Make a note about graininess (#115)
+  * Create LICENSE.md
+  * Drop Ryan Schroeder (#102)
+  * Add Snow-capped mountain. (#101)
+  * Remove Pablo Garcia Saldana (#95)
+  * Remove Carmine de Fazio (#96)
+  * Losslessly Optimize (#93)
+  * Update release.yml (#94)
+
+ -- elementary, Inc. <builds@elementary.io>  Tue, 13 Jul 2021 22:07:40 +0000
+
 elementary-wallpapers (5.5.0) bionic; urgency=medium
 
   * Release 5.5.0 (#87)
