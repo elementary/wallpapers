@@ -7,6 +7,13 @@
   <name>elementary Wallpapers</name>
   <summary>Curated wallpapers for elementary OS</summary>
   <releases>
+    <release version="6.1.0" date="2021-12-08" urgency="medium">
+      <description>
+        <ul>
+          <li>Make Odin Dark the default</li>
+        </ul>
+      </description>
+    </release>
     <release version="6.0.0" date="2021-07-13" urgency="medium">
       <description>
         <ul>
