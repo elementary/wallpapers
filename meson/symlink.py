@@ -15,10 +15,7 @@ src = os.path.basename(os.path.join(inst_prefix, args.src[0]))
 dest = os.path.join(dest_prefix, args.dest[0])
 
 if os.path.exists(dest):
-    if os.path.isdir(dest):
-        print('Folder "' + dest + '" already exists, no symlink will be created')
-    else:
-        print('File "' + dest + '" already exists, no symlink will be created')
-else:
-    print('Linking ' + dest + ' to ' + src)
-    os.symlink(src, dest)
+    os.remove(dest)
+
+print('Linking ' + dest + ' to ' + src)
+os.symlink(src, dest)
