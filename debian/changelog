@@ -1,3 +1,14 @@
+elementary-wallpapers (6.1.0) bionic; urgency=medium
+
+  * Release 6.1.0 (#166)
+  * Update translation files
+  * Change default to Odin Dark (#164)
+  * Create CONTRIBUTING.md (#163)
+  * AppData: Use implicit none in OARS (#161)
+  * Ashim DSilva: Fix permissions
+
+ -- elementary, Inc. <builds@elementary.io>  Mon, 13 Dec 2021 22:48:04 +0000
+
 elementary-wallpapers (6.0.0) bionic; urgency=medium
 
   * Release 6.0.0 (#156)
