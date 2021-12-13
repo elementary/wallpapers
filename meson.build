@@ -1,6 +1,6 @@
 project(
     'io.elementary.wallpapers',
-    version: '5.5.0'
+    version: '6.1.0'
 )
 
 i18n = import('i18n')
