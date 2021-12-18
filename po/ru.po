@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2021-12-10 15:17+0000\n"
+"PO-Revision-Date: 2021-12-18 16:43+0000\n"
 "Last-Translator: DartDeaDia <dartdeadia@protonmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/ru/>\n"
@@ -26,11 +26,11 @@ msgstr "Обои elementary"
 
 #: data/wallpapers.appdata.xml.in:8
 msgid "Curated wallpapers for elementary OS"
-msgstr ""
+msgstr "Разработанные обои для elementary OS"
 
 #: data/wallpapers.appdata.xml.in:13
 msgid "Change default to Sunset by the Pier"
-msgstr ""
+msgstr "Изменены обои по умолчанию на Sunset by the Pier (Закат у пирса)"
 
 #: data/wallpapers.appdata.xml.in:48
 msgid "elementary, Inc."
