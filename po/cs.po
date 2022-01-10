@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2022-01-10 02:34+0000\n"
+"PO-Revision-Date: 2022-01-10 18:13+0000\n"
 "Last-Translator: p-bo <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/cs/>\n"
@@ -21,15 +21,15 @@ msgstr ""
 
 #: data/wallpapers.appdata.xml.in:7
 msgid "elementary Wallpapers"
-msgstr ""
+msgstr "Obrázky na pozadí od elementary"
 
 #: data/wallpapers.appdata.xml.in:8
 msgid "Curated wallpapers for elementary OS"
-msgstr ""
+msgstr "Pečlivě vybíraná pozadí plochy pro elementary OS"
 
 #: data/wallpapers.appdata.xml.in:13
 msgid "Change default to Sunset by the Pier"
-msgstr ""
+msgstr "Změněn výchozí na Soumrak od Piera"
 
 #: data/wallpapers.appdata.xml.in:48
 msgid "elementary, Inc."
