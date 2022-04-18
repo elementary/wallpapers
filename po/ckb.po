@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2022-04-04 21:19+0000\n"
+"PO-Revision-Date: 2022-04-18 21:02+0000\n"
 "Last-Translator: Aga Ismael <agaesmaeel@gmail.com>\n"
 "Language-Team: Kurdish (Central) <https://l10n.elementary.io/projects/"
 "desktop/wallpapers-extra/ckb/>\n"
@@ -21,15 +21,15 @@ msgstr ""
 
 #: data/wallpapers.appdata.xml.in:7
 msgid "elementary Wallpapers"
-msgstr ""
+msgstr "پاشبنەماکانی ئێلەمێنتەری"
 
 #: data/wallpapers.appdata.xml.in:8
 msgid "Curated wallpapers for elementary OS"
-msgstr ""
+msgstr "پاشبنەما ڕێکخراوەکان بۆ ئێلەمێنتەری"
 
 #: data/wallpapers.appdata.xml.in:13
 msgid "Change default to Sunset by the Pier"
-msgstr ""
+msgstr "گۆڕینی سەرەکی بۆ سەنسێتی پایەر"
 
 #: data/wallpapers.appdata.xml.in:48
 msgid "elementary, Inc."
