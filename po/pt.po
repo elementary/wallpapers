@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2022-06-04 02:03+0000\n"
+"PO-Revision-Date: 2022-06-11 23:34+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/pt/>\n"
@@ -29,7 +29,7 @@ msgstr "Papéis de parede categorizados para o elementary OS"
 
 #: data/wallpapers.appdata.xml.in:13
 msgid "Change default to Sunset by the Pier"
-msgstr ""
+msgstr "Alterar a predefinição para Sunset by the Pier"
 
 #: data/wallpapers.appdata.xml.in:48
 msgid "elementary, Inc."
