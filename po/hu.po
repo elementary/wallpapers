@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2021-12-14 21:26+0000\n"
+"PO-Revision-Date: 2022-10-19 18:47+0000\n"
 "Last-Translator: TomiOhl <ohlslager.tom@gmail.com>\n"
 "Language-Team: Hungarian <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/hu/>\n"
@@ -29,7 +29,7 @@ msgstr "Az elementary OS hivatalos háttérképei"
 
 #: data/wallpapers.appdata.xml.in:13
 msgid "Change default to Sunset by the Pier"
-msgstr ""
+msgstr "Alapértelmezett megváltozatatása a Naplementére a mólónál"
 
 #: data/wallpapers.appdata.xml.in:48
 msgid "elementary, Inc."
