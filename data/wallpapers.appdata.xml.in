@@ -6,6 +6,8 @@
   <project_license>GPL-3.0+</project_license>
   <name>elementary Wallpapers</name>
   <summary>Curated wallpapers for elementary OS</summary>
+  <icon type="stock">preferences-desktop-wallpaper</icon>
+
   <releases>
     <release version="7.0.0" date="2022-10-19" urgency="medium">
       <description>
