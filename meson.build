@@ -13,7 +13,7 @@ install_subdir(
 
 meson.add_install_script(
     symlink,
-    '--src', get_option('datadir') / 'backgrounds' / 'odin-dark.jpg',
+    '--src', get_option('datadir') / 'backgrounds' / 'Photo of Valley.jpg',
     '--dest', get_option('datadir') / 'backgrounds' / 'elementaryos-default'
 )
 
