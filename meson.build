@@ -6,6 +6,15 @@ project(
 i18n = import('i18n')
 symlink = meson.current_source_dir() / 'meson' / 'symlink.py'
 
+rsvg = find_program('rsvg-convert')
+run_command(
+    rsvg, '--format', 'png',
+    '--width=5000', '--height=2813',
+    '--output', meson.source_root() / 'backgrounds' / 'Early Access.png',
+    'early_access.svg',
+    check: true
+)
+
 install_subdir(
     'backgrounds',
     install_dir: get_option('datadir')
