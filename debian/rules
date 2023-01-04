@@ -1,5 +1,7 @@
 #!/usr/bin/make -f
 
 %:
-	dh $@
+	dh $@ --buildsystem=meson
 
+override_dh_auto_configure:
+	dh_auto_configure -- -Dearly_access=true
