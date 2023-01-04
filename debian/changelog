@@ -1,3 +1,9 @@
+elementary-wallpapers (7.0.0) jammy; urgency=medium
+
+  * New upstream release
+
+ -- Danielle Foré <danielle@elementary.io>  Wed, 04 Jan 2023 09:26:12 -0800
+
 elementary-wallpapers (6.1.0) bionic; urgency=medium
 
   * Release 6.1.0 (#166)
