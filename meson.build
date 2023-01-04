@@ -5,15 +5,20 @@ project(
 
 i18n = import('i18n')
 symlink = meson.current_source_dir() / 'meson' / 'symlink.py'
+default_wallpaper = 'Photo of Valley.jpg'
 
-rsvg = find_program('rsvg-convert')
-run_command(
-    rsvg, '--format', 'png',
-    '--width=5000', '--height=2813',
-    '--output', meson.source_root() / 'backgrounds' / 'Early Access.png',
-    'early_access.svg',
-    check: true
-)
+if get_option('early_access')
+    rsvg = find_program('rsvg-convert')
+    run_command(
+        rsvg, '--format', 'png',
+        '--width=5000', '--height=2813',
+        '--output', meson.source_root() / 'backgrounds' / 'Early Access.png',
+        'early_access.svg',
+        check: true
+    )
+
+    default_wallpaper = 'Early Access.png'
+endif
 
 install_subdir(
     'backgrounds',
@@ -22,7 +27,7 @@ install_subdir(
 
 meson.add_install_script(
     symlink,
-    '--src', get_option('datadir') / 'backgrounds' / 'Photo of Valley.jpg',
+    '--src', get_option('datadir') / 'backgrounds' / default_wallpaper,
     '--dest', get_option('datadir') / 'backgrounds' / 'elementaryos-default'
 )
 
