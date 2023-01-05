@@ -4,6 +4,7 @@ Priority: optional
 Maintainer: elementary, Inc. <builds@elementary.io>
 Vcs-Git: https://github.com/elementary/wallpapers.git
 Build-Depends: debhelper (>= 10.5.1),
+               librsvg2-bin,
                meson
 Standards-Version: 4.1.1
 
