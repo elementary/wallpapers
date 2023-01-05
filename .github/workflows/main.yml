@@ -31,5 +31,5 @@ jobs:
 
     - name: Build (Early Access)
       run: |
-        meson configure -Dearly_access=true
+        meson configure build -Dearly_access=true
         ninja -C build install
