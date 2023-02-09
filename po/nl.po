@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2023-02-09 13:58+0000\n"
+"PO-Revision-Date: 2023-02-10 14:25+0000\n"
 "Last-Translator: Thierry Flament <thierry.flament@outlook.com>\n"
 "Language-Team: Dutch <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/nl/>\n"
@@ -25,11 +25,11 @@ msgstr "Elementary-wallpapers"
 
 #: data/wallpapers.appdata.xml.in:8
 msgid "Curated wallpapers for elementary OS"
-msgstr ""
+msgstr "Samengestelde achtergronden voor elementary OS"
 
 #: data/wallpapers.appdata.xml.in:13
 msgid "Change default to Sunset by the Pier"
-msgstr ""
+msgstr "Standaard wijzigen in Zonsondergang bij de pier"
 
 #: data/wallpapers.appdata.xml.in:48
 msgid "elementary, Inc."
