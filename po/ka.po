@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2023-03-12 22:25+0000\n"
+"PO-Revision-Date: 2023-04-15 00:59+0000\n"
 "Last-Translator: NorwayFun <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/ka/>\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: data/wallpapers.appdata.xml.in:7
 msgid "elementary Wallpapers"
-msgstr ""
+msgstr "elementary-ის ფონის სურათები"
 
 #: data/wallpapers.appdata.xml.in:8
 msgid "Curated wallpapers for elementary OS"
-msgstr ""
+msgstr "Elementary OS-სთვის შექმნილი ფონის სურათბი"
 
 #: data/wallpapers.appdata.xml.in:13
 msgid "Change default to Sunset by the Pier"
