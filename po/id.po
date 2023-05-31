@@ -8,9 +8,8 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2023-05-20 17:07+0000\n"
-"Last-Translator: Faisal Rachmadin <frachmadin@users.noreply.l10n.elementary."
-"io>\n"
+"PO-Revision-Date: 2023-05-31 13:31+0000\n"
+"Last-Translator: Muhammad Dholifun Nafsi <muhammad_dholifun@protonmail.com>\n"
 "Language-Team: Indonesian <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/id/>\n"
 "Language: id\n"
@@ -22,15 +21,15 @@ msgstr ""
 
 #: data/wallpapers.appdata.xml.in:7
 msgid "elementary Wallpapers"
-msgstr ""
+msgstr "elementary Wallpapers"
 
 #: data/wallpapers.appdata.xml.in:8
 msgid "Curated wallpapers for elementary OS"
-msgstr ""
+msgstr "Wallpaper yang dikurasi untuk elementary OS"
 
 #: data/wallpapers.appdata.xml.in:13
 msgid "Change default to Sunset by the Pier"
-msgstr ""
+msgstr "Ubah bawaan ke Sunset by the Pier"
 
 #: data/wallpapers.appdata.xml.in:48
 msgid "elementary, Inc."
