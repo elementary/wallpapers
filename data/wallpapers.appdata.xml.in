@@ -44,7 +44,9 @@
   </releases>
   <content_rating type="oars-1.1" />
   <translation type="gettext">io.elementary.wallpapers</translation>
-  <developer_name>elementary, Inc.</developer_name>
+  <developer id="org.elementaryos">
+    <name>elementary, Inc.</name>
+  </developer>
   <url type="homepage">https://elementary.io</url>
   <url type="bugtracker">https://github.com/elementary/wallpapers/issues</url>
 ​</component>
