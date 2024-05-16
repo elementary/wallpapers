@@ -1,4 +1,6 @@
 # elementary Wallpapers
+[![Translation status](https://l10n.elementary.io/widget/desktop/wallpapers-extra/svg-badge.svg)](https://l10n.elementary.io/engage/desktop/)
+
 Wallpapers for elementary OS
 
 ## Building, Testing, and Installation
