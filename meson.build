@@ -5,7 +5,7 @@ project(
 
 i18n = import('i18n')
 symlink = meson.current_source_dir() / 'meson' / 'symlink.py'
-default_wallpaper = 'Photo of Valley.jpg'
+default_wallpaper = 'A Large Body of Water Surrounded By Mountains.jpg'
 
 if get_option('early_access')
     rsvg = find_program('rsvg-convert')
