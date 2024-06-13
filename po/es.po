@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2024-06-05 02:13+0000\n"
+"PO-Revision-Date: 2024-06-13 19:30+0000\n"
 "Last-Translator: Italo Felipe Capasso Ballesteros <edwood.grant@gmail.com>\n"
 "Language-Team: Spanish <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/es/>\n"
@@ -17,20 +17,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: data/wallpapers.appdata.xml.in:7
 msgid "elementary Wallpapers"
-msgstr "Fondos de pantalla de elementary"
+msgstr "Fondos de escritorio de elementary"
 
 #: data/wallpapers.appdata.xml.in:8
 msgid "Curated wallpapers for elementary OS"
-msgstr "Fondos de pantalla seleccionados para elementary OS"
+msgstr "Fondos de escritorio seleccionados para elementary OS"
 
 #: data/wallpapers.appdata.xml.in:13
 msgid "Change default to Sunset by the Pier"
-msgstr ""
-"Se cambia el fondo de pantalla predeterminado a «Sunset» (ocaso) por Pier"
+msgstr "Se cambia el fondo de escritorio predeterminado a «Sunset» por Pier"
 
 #: data/wallpapers.appdata.xml.in:48
 msgid "elementary, Inc."
