@@ -24,6 +24,18 @@
   <update_contact>contact_at_elementary.io</update_contact>
 
   <releases>
+    <release version="8.0.0" date="2024-07-11" urgency="medium">
+      <description>
+        <ul>
+          <li>Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make it the new default</li>
+          <li>Add “A Trail of Footprints In The Sand” by David Emrich</li>
+          <li>Remove “Orange Tulip” by Leigh Kendell</li>
+          <li>Remove “Bird Flying by The Mountain” by Julia Craice</li>
+          <li>Build a special wallpaper for Early Access</li>
+        </ul>
+      </description>
+    </release>
+
     <release version="7.0.0" date="2022-01-04" urgency="medium">
       <description>
         <ul>
