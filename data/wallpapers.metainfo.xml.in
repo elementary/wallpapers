@@ -2,11 +2,26 @@
 <!-- Copyright 2019-2022 elementary, Inc. <contact@elementary.io> -->
 <component>
   <id>io.elementary.wallpapers</id>
+  <translation type="gettext">io.elementary.wallpapers</translation>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0+</project_license>
+
+  <icon type="stock">preferences-desktop-wallpaper</icon>
   <name>elementary Wallpapers</name>
   <summary>Curated wallpapers for elementary OS</summary>
-  <icon type="stock">preferences-desktop-wallpaper</icon>
+
+  <content_rating type="oars-1.1" />
+
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/wallpapers/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="translate">https://l10n.elementary.io/engage/desktop/</url>
+
+  <developer id="org.elementaryos">
+    <name>elementary, Inc.</name>
+  </developer>
+  <project_group>elementary</project_group>
+  <update_contact>contact_at_elementary.io</update_contact>
 
   <releases>
     <release version="7.0.0" date="2022-01-04" urgency="medium">
@@ -25,6 +40,7 @@
         </ul>
       </description>
     </release>
+
     <release version="6.0.0" date="2021-07-13" urgency="medium">
       <description>
         <ul>
@@ -34,6 +50,7 @@
         </ul>
       </description>
     </release>
+
     <release version="5.5.0" date="2019-11-26" urgency="medium">
       <description>
         <ul>
@@ -42,11 +59,4 @@
       </description>
     </release>
   </releases>
-  <content_rating type="oars-1.1" />
-  <translation type="gettext">io.elementary.wallpapers</translation>
-  <developer id="org.elementaryos">
-    <name>elementary, Inc.</name>
-  </developer>
-  <url type="homepage">https://elementary.io</url>
-  <url type="bugtracker">https://github.com/elementary/wallpapers/issues</url>
 ​</component>
