@@ -7,27 +7,76 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-25 12:35-0800\n"
+"POT-Creation-Date: 2024-07-13 13:43+0900\n"
 "PO-Revision-Date: 2019-11-25 12:35-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ur\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ASCII\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: data/wallpapers.appdata.xml.in:7
+#: data/wallpapers.metainfo.xml.in:10
 msgid "elementary Wallpapers"
 msgstr ""
 
-#: data/wallpapers.appdata.xml.in:8
+#: data/wallpapers.metainfo.xml.in:11
 msgid "Curated wallpapers for elementary OS"
 msgstr ""
 
-#: data/wallpapers.appdata.xml.in:13
-msgid "Change default to Sunset by the Pier"
+#: data/wallpapers.metainfo.xml.in:21
+msgid "elementary, Inc."
 msgstr ""
 
-#: data/wallpapers.appdata.xml.in:48
-msgid "elementary, Inc."
+#: data/wallpapers.metainfo.xml.in:30
+msgid ""
+"Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make "
+"it the new default"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:31
+msgid "Add “A Trail of Footprints In The Sand” by David Emrich"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:32
+msgid "Remove “Orange Tulip” by Leigh Kendell"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:33
+msgid "Remove “Bird Flying by The Mountain” by Julia Craice"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:34
+msgid "Build a special wallpaper for Early Access"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:42
+msgid "Add \"Photo of Valley\" by Aniket Deole"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:43
+msgid "Remove Jonas Nilsson Lee"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:51
+msgid "Make Odin Dark the default"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:59
+msgid "Add day and night custom Odin wallpapers by Freehive"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:60
+msgid ""
+"Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:61
+msgid ""
+"Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
+"Schroeder"
+msgstr ""
+
+#: data/wallpapers.metainfo.xml.in:69
+msgid "Change default to Sunset by the Pier"
 msgstr ""
