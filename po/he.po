@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 13:43+0900\n"
-"PO-Revision-Date: 2024-07-14 05:16+0000\n"
+"PO-Revision-Date: 2024-07-15 07:16+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/he/>\n"
@@ -47,23 +47,23 @@ msgstr "הסרת „צבעוני כתום” של לי קנדל"
 
 #: data/wallpapers.metainfo.xml.in:33
 msgid "Remove “Bird Flying by The Mountain” by Julia Craice"
-msgstr ""
+msgstr "הסרת „ציפור עפה ליד הר” של יוליה קרייס"
 
 #: data/wallpapers.metainfo.xml.in:34
 msgid "Build a special wallpaper for Early Access"
-msgstr ""
+msgstr "הרכבת תמונת רקע מיוחדת לבעלי גישה מוקדמת"
 
 #: data/wallpapers.metainfo.xml.in:42
 msgid "Add \"Photo of Valley\" by Aniket Deole"
-msgstr ""
+msgstr "הוספת „תמונה של עמק” של אניקט דיול"
 
 #: data/wallpapers.metainfo.xml.in:43
 msgid "Remove Jonas Nilsson Lee"
-msgstr ""
+msgstr "הסרת ג׳ונס נילסון לי"
 
 #: data/wallpapers.metainfo.xml.in:51
 msgid "Make Odin Dark the default"
-msgstr ""
+msgstr "הפיכת אודין כהה לברירת המחדל"
 
 #: data/wallpapers.metainfo.xml.in:59
 msgid "Add day and night custom Odin wallpapers by Freehive"
