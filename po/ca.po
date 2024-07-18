@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2021-12-10 10:46+0000\n"
+"POT-Creation-Date: 2024-07-13 13:43+0900\n"
+"PO-Revision-Date: 2024-07-14 05:16+0000\n"
 "Last-Translator: David M <rbndavid@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/ca/>\n"
@@ -17,20 +17,76 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 5.6.2\n"
 
-#: data/wallpapers.appdata.xml.in:7
+#: data/wallpapers.metainfo.xml.in:10
 msgid "elementary Wallpapers"
 msgstr "Fons de pantalla de l'elementary"
 
-#: data/wallpapers.appdata.xml.in:8
+#: data/wallpapers.metainfo.xml.in:11
 msgid "Curated wallpapers for elementary OS"
 msgstr "Fons de pantalla seleccionats per a l'elementary OS"
 
-#: data/wallpapers.appdata.xml.in:13
-msgid "Change default to Sunset by the Pier"
-msgstr "Canvia per defecte a Posta de sol al moll"
-
-#: data/wallpapers.appdata.xml.in:48
+#: data/wallpapers.metainfo.xml.in:21
 msgid "elementary, Inc."
 msgstr "elementary, Inc."
+
+#: data/wallpapers.metainfo.xml.in:30
+msgid ""
+"Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make "
+"it the new default"
+msgstr ""
+"Afegiu-hi \"Una gran massa d'aigua envoltada de muntanyes\" de Peter Thomas "
+"i feu que sigui el nou predeterminat."
+
+#: data/wallpapers.metainfo.xml.in:31
+msgid "Add “A Trail of Footprints In The Sand” by David Emrich"
+msgstr "Afegiu-hi \"Un camí de petjades a la sorra\" de David Emrich."
+
+#: data/wallpapers.metainfo.xml.in:32
+msgid "Remove “Orange Tulip” by Leigh Kendell"
+msgstr "S'elimina \"Orange Tulip\" de Leigh Kendell."
+
+#: data/wallpapers.metainfo.xml.in:33
+msgid "Remove “Bird Flying by The Mountain” by Julia Craice"
+msgstr "S'elimina \"Bird Flying by The Mountain\" de Julia Craice."
+
+#: data/wallpapers.metainfo.xml.in:34
+msgid "Build a special wallpaper for Early Access"
+msgstr "Crea un fons de pantalla especial per a l'accés anticipat"
+
+#: data/wallpapers.metainfo.xml.in:42
+msgid "Add \"Photo of Valley\" by Aniket Deole"
+msgstr "Afegiu-hi \"Foto de la vall\" d'Aniket Deole."
+
+#: data/wallpapers.metainfo.xml.in:43
+msgid "Remove Jonas Nilsson Lee"
+msgstr "S'elimina Jonas Nilsson Lee."
+
+#: data/wallpapers.metainfo.xml.in:51
+msgid "Make Odin Dark the default"
+msgstr "Es fa que Odin Dark sigui el valor predeterminat."
+
+#: data/wallpapers.metainfo.xml.in:59
+msgid "Add day and night custom Odin wallpapers by Freehive"
+msgstr ""
+"Afegiu-hi fons de pantalla personalitzats d'Odin de dia i de nit de Freehive."
+
+#: data/wallpapers.metainfo.xml.in:60
+msgid ""
+"Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs"
+msgstr ""
+"Afegiu-hi \"Muntanya nevada\" de Martin Adams, Tj Holowaychuk i Vikor "
+"Forgacs."
+
+#: data/wallpapers.metainfo.xml.in:61
+msgid ""
+"Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
+"Schroeder"
+msgstr ""
+"S'eliminen Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye i "
+"Ryan Schroeder."
+
+#: data/wallpapers.metainfo.xml.in:69
+msgid "Change default to Sunset by the Pier"
+msgstr "Canvia per defecte a Posta de sol al moll"

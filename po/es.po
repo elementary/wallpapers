@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2024-06-13 19:30+0000\n"
+"POT-Creation-Date: 2024-07-13 13:43+0900\n"
+"PO-Revision-Date: 2024-07-14 05:16+0000\n"
 "Last-Translator: Italo Felipe Capasso Ballesteros <edwood.grant@gmail.com>\n"
 "Language-Team: Spanish <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/es/>\n"
@@ -17,20 +17,79 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5.5\n"
+"X-Generator: Weblate 5.6.2\n"
 
-#: data/wallpapers.appdata.xml.in:7
+#: data/wallpapers.metainfo.xml.in:10
 msgid "elementary Wallpapers"
 msgstr "Fondos de escritorio de elementary"
 
-#: data/wallpapers.appdata.xml.in:8
+#: data/wallpapers.metainfo.xml.in:11
 msgid "Curated wallpapers for elementary OS"
 msgstr "Fondos de escritorio seleccionados para elementary OS"
 
-#: data/wallpapers.appdata.xml.in:13
-msgid "Change default to Sunset by the Pier"
-msgstr "Se cambia el fondo de escritorio predeterminado a «Sunset» por Pier"
-
-#: data/wallpapers.appdata.xml.in:48
+#: data/wallpapers.metainfo.xml.in:21
 msgid "elementary, Inc."
 msgstr "elementary, Inc."
+
+#: data/wallpapers.metainfo.xml.in:30
+msgid ""
+"Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make "
+"it the new default"
+msgstr ""
+"Se agregó «Una gran masa de agua rodeada por montañas» de Peter Thomas y se "
+"estableció como el nuevo predeterminado"
+
+#: data/wallpapers.metainfo.xml.in:31
+msgid "Add “A Trail of Footprints In The Sand” by David Emrich"
+msgstr "Se agregó «Un rastro de huellas en la arena» de David Emrich"
+
+#: data/wallpapers.metainfo.xml.in:32
+msgid "Remove “Orange Tulip” by Leigh Kendell"
+msgstr "Se quitó «Tulipán Naranja» por Leigh Kendell"
+
+#: data/wallpapers.metainfo.xml.in:33
+msgid "Remove “Bird Flying by The Mountain” by Julia Craice"
+msgstr "Se quitó «Pájaro volando por la montaña» de Julia Craice"
+
+#: data/wallpapers.metainfo.xml.in:34
+msgid "Build a special wallpaper for Early Access"
+msgstr ""
+"Se creó un fondo de escritorio especial para compilaciones de versiones "
+"preliminares"
+
+#: data/wallpapers.metainfo.xml.in:42
+msgid "Add \"Photo of Valley\" by Aniket Deole"
+msgstr "Se agregó «Foto del valle» de Aniket Deole"
+
+#: data/wallpapers.metainfo.xml.in:43
+msgid "Remove Jonas Nilsson Lee"
+msgstr "Se quitó a Jonas Nilsson Lee"
+
+#: data/wallpapers.metainfo.xml.in:51
+msgid "Make Odin Dark the default"
+msgstr "Se estableció «Odín oscuro» como predeterminado"
+
+#: data/wallpapers.metainfo.xml.in:59
+msgid "Add day and night custom Odin wallpapers by Freehive"
+msgstr ""
+"Se agregaron fondos de escritorio de Odín de día y de noche personalizados "
+"de Freehive"
+
+#: data/wallpapers.metainfo.xml.in:60
+msgid ""
+"Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs"
+msgstr ""
+"Se agregó Montaña cubierta de nieve, Martin Adams, Tj Holowaychuk y Vikor "
+"Forgacs"
+
+#: data/wallpapers.metainfo.xml.in:61
+msgid ""
+"Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
+"Schroeder"
+msgstr ""
+"Se quitó Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye y Ryan "
+"Schroeder"
+
+#: data/wallpapers.metainfo.xml.in:69
+msgid "Change default to Sunset by the Pier"
+msgstr "Se cambia el fondo de escritorio predeterminado a «Sunset» por Pier"

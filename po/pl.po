@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-25 12:35-0800\n"
-"PO-Revision-Date: 2021-12-09 09:58+0000\n"
+"POT-Creation-Date: 2024-07-13 13:43+0900\n"
+"PO-Revision-Date: 2024-07-15 07:16+0000\n"
 "Last-Translator: Marcin Serwin <marcin.serwin0@protonmail.com>\n"
 "Language-Team: Polish <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/pl/>\n"
@@ -18,20 +18,76 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 5.6.2\n"
 
-#: data/wallpapers.appdata.xml.in:7
+#: data/wallpapers.metainfo.xml.in:10
 msgid "elementary Wallpapers"
 msgstr "Tapety elementary"
 
-#: data/wallpapers.appdata.xml.in:8
+#: data/wallpapers.metainfo.xml.in:11
 msgid "Curated wallpapers for elementary OS"
 msgstr "Specjalnie wybrane tapety dla elementary OS"
 
-#: data/wallpapers.appdata.xml.in:13
-msgid "Change default to Sunset by the Pier"
-msgstr "Zmiana domyślnej tapety na Zachód słońca Pier'a"
-
-#: data/wallpapers.appdata.xml.in:48
+#: data/wallpapers.metainfo.xml.in:21
 msgid "elementary, Inc."
 msgstr "elementary, Inc."
+
+#: data/wallpapers.metainfo.xml.in:30
+msgid ""
+"Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make "
+"it the new default"
+msgstr ""
+"Dodano „Duży zbiornik wodny otoczony przez góry” autorstwa Peter Thomas i "
+"ustawiono go jako nową tapetę domyślną"
+
+#: data/wallpapers.metainfo.xml.in:31
+msgid "Add “A Trail of Footprints In The Sand” by David Emrich"
+msgstr "Dodano „Ślad odcisków w piasku” autorstwa David Emrich"
+
+#: data/wallpapers.metainfo.xml.in:32
+msgid "Remove “Orange Tulip” by Leigh Kendell"
+msgstr "Usunięto „Pomarańczowy tulipan” autorstwa Leigh Kendell"
+
+#: data/wallpapers.metainfo.xml.in:33
+msgid "Remove “Bird Flying by The Mountain” by Julia Craice"
+msgstr "Usunięto „Ptak lecący nieopodal góry” autorstwa Julia Craice"
+
+#: data/wallpapers.metainfo.xml.in:34
+msgid "Build a special wallpaper for Early Access"
+msgstr "Zbudowano specjalną tapetę dla wczesnego dostępu"
+
+#: data/wallpapers.metainfo.xml.in:42
+msgid "Add \"Photo of Valley\" by Aniket Deole"
+msgstr "Dodano „Fotografia doliny” autorstwa Aniket Deole"
+
+#: data/wallpapers.metainfo.xml.in:43
+msgid "Remove Jonas Nilsson Lee"
+msgstr "Usunięto Jonas Nilsson Lee"
+
+#: data/wallpapers.metainfo.xml.in:51
+msgid "Make Odin Dark the default"
+msgstr "Odin Dark jest teraz domyślne"
+
+#: data/wallpapers.metainfo.xml.in:59
+msgid "Add day and night custom Odin wallpapers by Freehive"
+msgstr ""
+"Dodano specjalne tapety Odin w wersji dziennej i nocnej autorstwa Freehive"
+
+#: data/wallpapers.metainfo.xml.in:60
+msgid ""
+"Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs"
+msgstr ""
+"Dodano Górę przykrytą śniegiem, Martin Adams, Tj Holowaychuk oraz Vikor "
+"Forgacs"
+
+#: data/wallpapers.metainfo.xml.in:61
+msgid ""
+"Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
+"Schroeder"
+msgstr ""
+"Usunięto Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye oraz "
+"Ryan Schroeder"
+
+#: data/wallpapers.metainfo.xml.in:69
+msgid "Change default to Sunset by the Pier"
+msgstr "Zmiana domyślnej tapety na Zachód słońca Pier'a"
