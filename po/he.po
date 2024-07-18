@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 13:43+0900\n"
-"PO-Revision-Date: 2024-07-15 07:16+0000\n"
+"PO-Revision-Date: 2024-07-19 08:16+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/he/>\n"
@@ -67,18 +67,18 @@ msgstr "הפיכת אודין כהה לברירת המחדל"
 
 #: data/wallpapers.metainfo.xml.in:59
 msgid "Add day and night custom Odin wallpapers by Freehive"
-msgstr ""
+msgstr "הוספת תמונות רקע אודין מותאמות אישית ליום ולילה מאת פריהייב"
 
 #: data/wallpapers.metainfo.xml.in:60
 msgid ""
 "Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs"
-msgstr ""
+msgstr "נוספו הרים מושלגים, מרטין אדמס, טי.ג׳יי הולוואיצ׳וק וגם ויקור פורגאץ׳"
 
 #: data/wallpapers.metainfo.xml.in:61
 msgid ""
 "Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
 "Schroeder"
-msgstr ""
+msgstr "הוסרו קרמין די פאסיו, לוקה בראבו, פבלו גרסיה זלדנה, רוב ביי וריאן שרודר"
 
 #: data/wallpapers.metainfo.xml.in:69
 msgid "Change default to Sunset by the Pier"
