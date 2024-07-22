@@ -24,7 +24,7 @@
   <update_contact>contact_at_elementary.io</update_contact>
 
   <releases>
-    <release version="8.0.0" date="2024-07-11" urgency="medium">
+    <release version="8.0.0" date="2024-07-22" urgency="medium">
       <description>
         <ul>
           <li>Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make it the new default</li>
