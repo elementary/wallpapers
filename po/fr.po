@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 13:43+0900\n"
-"PO-Revision-Date: 2021-12-10 10:46+0000\n"
+"PO-Revision-Date: 2024-07-24 08:16+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
 "Language-Team: French <https://l10n.elementary.io/projects/desktop/"
 "wallpapers-extra/fr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #: data/wallpapers.metainfo.xml.in:10
 msgid "elementary Wallpapers"
@@ -36,49 +36,54 @@ msgid ""
 "Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make "
 "it the new default"
 msgstr ""
+"Ajout de « Une grande étendue d'eau entourée de montagnes » de Peter Thomas "
+"comme nouveau fond d'écran par défaut"
 
 #: data/wallpapers.metainfo.xml.in:31
 msgid "Add “A Trail of Footprints In The Sand” by David Emrich"
-msgstr ""
+msgstr "Ajout de « Une piste d'empreintes dans le sable » par David Emrich"
 
 #: data/wallpapers.metainfo.xml.in:32
 msgid "Remove “Orange Tulip” by Leigh Kendell"
-msgstr ""
+msgstr "Suppression de « Orange Tulip » par Leigh Kendell"
 
 #: data/wallpapers.metainfo.xml.in:33
 msgid "Remove “Bird Flying by The Mountain” by Julia Craice"
-msgstr ""
+msgstr "Suppression de « Oiseau volant près de la montagne » par Julia Craice"
 
 #: data/wallpapers.metainfo.xml.in:34
 msgid "Build a special wallpaper for Early Access"
-msgstr ""
+msgstr "Ajout d'un fond d'écran spécifique pour l'accès anticipé"
 
 #: data/wallpapers.metainfo.xml.in:42
 msgid "Add \"Photo of Valley\" by Aniket Deole"
-msgstr ""
+msgstr "Ajout de « Photo de la vallée » par Aniket Deole"
 
 #: data/wallpapers.metainfo.xml.in:43
 msgid "Remove Jonas Nilsson Lee"
-msgstr ""
+msgstr "Suppression de Jonas Nilsson Lee"
 
 #: data/wallpapers.metainfo.xml.in:51
 msgid "Make Odin Dark the default"
-msgstr ""
+msgstr "Odin Dark devient la valeur par défaut"
 
 #: data/wallpapers.metainfo.xml.in:59
 msgid "Add day and night custom Odin wallpapers by Freehive"
-msgstr ""
+msgstr "Ajout de fonds d'écran Odin personnalisés jour/nuit par Freehive"
 
 #: data/wallpapers.metainfo.xml.in:60
 msgid ""
 "Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs"
 msgstr ""
+"Ajout de « Montagne enneigée », Martin Adams, Tj Holowaychuk et Vikor Forgacs"
 
 #: data/wallpapers.metainfo.xml.in:61
 msgid ""
 "Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
 "Schroeder"
 msgstr ""
+"Suppression de Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye "
+"et Ryan Schroeder"
 
 #: data/wallpapers.metainfo.xml.in:69
 msgid "Change default to Sunset by the Pier"
