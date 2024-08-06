@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 13:43+0900\n"
-"PO-Revision-Date: 2019-11-25 12:35-0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-08-07 18:17+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Esperanto <https://l10n.elementary.io/projects/desktop/"
+"wallpapers-extra/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #: data/wallpapers.metainfo.xml.in:10
 msgid "elementary Wallpapers"
@@ -27,7 +29,7 @@ msgstr ""
 
 #: data/wallpapers.metainfo.xml.in:21
 msgid "elementary, Inc."
-msgstr ""
+msgstr "elementary, Inc."
 
 #: data/wallpapers.metainfo.xml.in:30
 msgid ""
