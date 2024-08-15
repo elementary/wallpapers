@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 13:43+0900\n"
-"PO-Revision-Date: 2024-08-15 20:15+0000\n"
-"Last-Translator: José Rafael <jrafaeldesantana@gmail.com>\n"
+"PO-Revision-Date: 2024-08-15 20:17+0000\n"
+"Last-Translator: Max2020 <alcizmaxpereira@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.elementary.io/projects/"
 "desktop/wallpapers-extra/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -36,8 +36,8 @@ msgid ""
 "Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make "
 "it the new default"
 msgstr ""
-"Adiciona “A Large Body of Water Surrounded By Mountains” por Peter Thomas e "
-"faz com que seja o novo padrão"
+"Adicione “A Large Body of Water Surrounded By Mountains” de Peter Thomas e "
+"torne-o o novo padrão"
 
 #: data/wallpapers.metainfo.xml.in:31
 msgid "Add “A Trail of Footprints In The Sand” by David Emrich"
@@ -45,23 +45,23 @@ msgstr "Adicione “A Trail of Footprints In The Sand” de David Emrich"
 
 #: data/wallpapers.metainfo.xml.in:32
 msgid "Remove “Orange Tulip” by Leigh Kendell"
-msgstr ""
+msgstr "Remover “Orange Tulip” de Leigh Kendell"
 
 #: data/wallpapers.metainfo.xml.in:33
 msgid "Remove “Bird Flying by The Mountain” by Julia Craice"
-msgstr ""
+msgstr "Remover “Bird Flying by The Mountain” de Julia Craice"
 
 #: data/wallpapers.metainfo.xml.in:34
 msgid "Build a special wallpaper for Early Access"
-msgstr ""
+msgstr "Crie um papel de parede especial para acesso antecipado"
 
 #: data/wallpapers.metainfo.xml.in:42
 msgid "Add \"Photo of Valley\" by Aniket Deole"
-msgstr ""
+msgstr "Adicione \"Photo of Valley\" de Aniket Deole"
 
 #: data/wallpapers.metainfo.xml.in:43
 msgid "Remove Jonas Nilsson Lee"
-msgstr ""
+msgstr "Remover Jonas Nilsson Lee"
 
 #: data/wallpapers.metainfo.xml.in:51
 msgid "Make Odin Dark the default"
@@ -70,6 +70,7 @@ msgstr ""
 #: data/wallpapers.metainfo.xml.in:59
 msgid "Add day and night custom Odin wallpapers by Freehive"
 msgstr ""
+"Adicione papéis de parede personalizados de Odin dia e noite por Freehive"
 
 #: data/wallpapers.metainfo.xml.in:60
 msgid ""
@@ -81,6 +82,8 @@ msgid ""
 "Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
 "Schroeder"
 msgstr ""
+"Remover Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and "
+"Ryan Schroeder"
 
 #: data/wallpapers.metainfo.xml.in:69
 msgid "Change default to Sunset by the Pier"
