@@ -8,24 +8,24 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 13:43+0900\n"
-"PO-Revision-Date: 2024-08-07 18:17+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
-"Language-Team: Swedish <https://l10n.elementary.io/projects/desktop/"
+"PO-Revision-Date: 2025-10-22 05:26+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <https://l10n.elementaryos.org/projects/desktop/"
 "wallpapers-extra/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: data/wallpapers.metainfo.xml.in:10
 msgid "elementary Wallpapers"
-msgstr ""
+msgstr "Bakgrundsbilder för elementary"
 
 #: data/wallpapers.metainfo.xml.in:11
 msgid "Curated wallpapers for elementary OS"
-msgstr ""
+msgstr "Utvalda bakgrundsbilder för elementary OS"
 
 #: data/wallpapers.metainfo.xml.in:21
 msgid "elementary, Inc."
@@ -36,50 +36,54 @@ msgid ""
 "Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make "
 "it the new default"
 msgstr ""
+"Lägg till \"Ett stort vattendrag omgivet av berg\" av Peter Thomas och gör "
+"det till den nya standardinställningen"
 
 #: data/wallpapers.metainfo.xml.in:31
 msgid "Add “A Trail of Footprints In The Sand” by David Emrich"
-msgstr ""
+msgstr "Lägg till \"Ett spår av fotspår i sanden\" av David Emrich"
 
 #: data/wallpapers.metainfo.xml.in:32
 msgid "Remove “Orange Tulip” by Leigh Kendell"
-msgstr ""
+msgstr "Ta bort \"Orange tulpan\" av Leigh Kendell"
 
 #: data/wallpapers.metainfo.xml.in:33
 msgid "Remove “Bird Flying by The Mountain” by Julia Craice"
-msgstr ""
+msgstr "Ta bort \"Fågel som flyger vid berget\" av Julia Craice"
 
 #: data/wallpapers.metainfo.xml.in:34
 msgid "Build a special wallpaper for Early Access"
-msgstr ""
+msgstr "Skapa en speciell bakgrundsbild för Tidig åtkomst"
 
 #: data/wallpapers.metainfo.xml.in:42
 msgid "Add \"Photo of Valley\" by Aniket Deole"
-msgstr ""
+msgstr "Lägg till \"Foto av dalen\" av Aniket Deole"
 
 #: data/wallpapers.metainfo.xml.in:43
 msgid "Remove Jonas Nilsson Lee"
-msgstr ""
+msgstr "Ta bort Jonas Nilsson Lee"
 
 #: data/wallpapers.metainfo.xml.in:51
 msgid "Make Odin Dark the default"
-msgstr ""
+msgstr "Gör Odin mörk till standard"
 
 #: data/wallpapers.metainfo.xml.in:59
 msgid "Add day and night custom Odin wallpapers by Freehive"
-msgstr ""
+msgstr "Lägg till dag och natt-anpassade Odin bakgrundsbilder by Freehive"
 
 #: data/wallpapers.metainfo.xml.in:60
 msgid ""
 "Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs"
-msgstr ""
+msgstr "Lägg till Snötäckt berg, Martin Adams, Tj Holowaychuk och Vikor Forgacs"
 
 #: data/wallpapers.metainfo.xml.in:61
 msgid ""
 "Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
 "Schroeder"
 msgstr ""
+"Ta bort Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye och Ryan "
+"Schroeder"
 
 #: data/wallpapers.metainfo.xml.in:69
 msgid "Change default to Sunset by the Pier"
-msgstr ""
+msgstr "Ändra standard till Solnedgång vid piren"
