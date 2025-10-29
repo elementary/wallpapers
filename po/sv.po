@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 13:43+0900\n"
-"PO-Revision-Date: 2025-10-22 05:26+0000\n"
+"PO-Revision-Date: 2025-10-30 09:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/desktop/"
 "wallpapers-extra/sv/>\n"
@@ -53,7 +53,7 @@ msgstr "Ta bort \"Fågel som flyger vid berget\" av Julia Craice"
 
 #: data/wallpapers.metainfo.xml.in:34
 msgid "Build a special wallpaper for Early Access"
-msgstr "Skapa en speciell bakgrundsbild för Tidig åtkomst"
+msgstr "Skapa en speciell bakgrundsbild för förutgåva"
 
 #: data/wallpapers.metainfo.xml.in:42
 msgid "Add \"Photo of Valley\" by Aniket Deole"
