@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 13:43+0900\n"
-"PO-Revision-Date: 2025-07-19 10:55+0000\n"
+"PO-Revision-Date: 2025-12-05 08:55+0000\n"
 "Last-Translator: lenify <lenify@tutanota.com>\n"
 "Language-Team: Belarusian <https://l10n.elementaryos.org/projects/desktop/"
 "wallpapers-extra/be/>\n"
@@ -22,11 +22,11 @@ msgstr ""
 
 #: data/wallpapers.metainfo.xml.in:10
 msgid "elementary Wallpapers"
-msgstr ""
+msgstr "Шпалеры elementary"
 
 #: data/wallpapers.metainfo.xml.in:11
 msgid "Curated wallpapers for elementary OS"
-msgstr ""
+msgstr "Адабраныя шпалеры для elementary OS"
 
 #: data/wallpapers.metainfo.xml.in:21
 msgid "elementary, Inc."
@@ -37,50 +37,56 @@ msgid ""
 "Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make "
 "it the new default"
 msgstr ""
+"Дадалі «Вялікі вадаём, абкружаны гарамі» ад Пітэра Томаса і зрабілі "
+"прадвызначанымі"
 
 #: data/wallpapers.metainfo.xml.in:31
 msgid "Add “A Trail of Footprints In The Sand” by David Emrich"
-msgstr ""
+msgstr "Дадалі «Сляды на пяску» ад Дэвіда Эмрыха"
 
 #: data/wallpapers.metainfo.xml.in:32
+#, fuzzy
 msgid "Remove “Orange Tulip” by Leigh Kendell"
-msgstr ""
+msgstr "Выдалілі «Аранжавы цюльпан» ад Лі Кэндэла"
 
 #: data/wallpapers.metainfo.xml.in:33
 msgid "Remove “Bird Flying by The Mountain” by Julia Craice"
-msgstr ""
+msgstr "Выдалілі «Птушка, якая ляціць каля гары» ад Джуліі Крэйс"
 
 #: data/wallpapers.metainfo.xml.in:34
 msgid "Build a special wallpaper for Early Access"
-msgstr ""
+msgstr "Стварылі спецыяльныя шпалеры для ранняга доступу"
 
 #: data/wallpapers.metainfo.xml.in:42
 msgid "Add \"Photo of Valley\" by Aniket Deole"
-msgstr ""
+msgstr "Дадалі «Фатаграфія даліны» ад Анікета Дэола"
 
 #: data/wallpapers.metainfo.xml.in:43
+#, fuzzy
 msgid "Remove Jonas Nilsson Lee"
-msgstr ""
+msgstr "Выдалілі шпалеры Іонаса Нільсана Лі"
 
 #: data/wallpapers.metainfo.xml.in:51
 msgid "Make Odin Dark the default"
-msgstr ""
+msgstr "Зрабілі шпалеры «Цёмны Одзін» прадвызначанымі"
 
 #: data/wallpapers.metainfo.xml.in:59
 msgid "Add day and night custom Odin wallpapers by Freehive"
-msgstr ""
+msgstr "Дадалі шпалеры «Одзін» ад Freehive для дня і ночы"
 
 #: data/wallpapers.metainfo.xml.in:60
 msgid ""
 "Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs"
-msgstr ""
+msgstr "Дадалі «Заснежаную гару», Martin Adams, Tj Holowaychuk, і Vikor Forgacs"
 
 #: data/wallpapers.metainfo.xml.in:61
 msgid ""
 "Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
 "Schroeder"
 msgstr ""
+"Выдалілі Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and "
+"Ryan Schroeder"
 
 #: data/wallpapers.metainfo.xml.in:69
 msgid "Change default to Sunset by the Pier"
-msgstr ""
+msgstr "Змянілі прадвызначаныя шпалеры на «Захад каля прыстані»"
