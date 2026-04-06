@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 13:43+0900\n"
-"PO-Revision-Date: 2026-04-06 14:59+0000\n"
+"PO-Revision-Date: 2026-04-06 15:10+0000\n"
 "Last-Translator: Buni <ben.gordon@posteo.de>\n"
 "Language-Team: Scots <https://l10n.elementaryos.org/projects/desktop/"
 "wallpapers-extra/sco/>\n"
@@ -61,27 +61,31 @@ msgstr "Eik \"Photo of Valley\" tae Aniket Deole"
 
 #: data/wallpapers.metainfo.xml.in:43
 msgid "Remove Jonas Nilsson Lee"
-msgstr ""
+msgstr "Redd Jonas Nilsson Lee"
 
 #: data/wallpapers.metainfo.xml.in:51
 msgid "Make Odin Dark the default"
-msgstr ""
+msgstr "Mak Odin Dark the defaut"
 
 #: data/wallpapers.metainfo.xml.in:59
 msgid "Add day and night custom Odin wallpapers by Freehive"
-msgstr ""
+msgstr "Eik day an nicht custom Odin wapapers frae Freehive"
 
 #: data/wallpapers.metainfo.xml.in:60
 msgid ""
 "Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs"
 msgstr ""
+"Eik “Snow-capped Mountain” tae Martin Adams, Tj Holowaychuk, and Vikor "
+"Forgacs"
 
 #: data/wallpapers.metainfo.xml.in:61
 msgid ""
 "Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
 "Schroeder"
 msgstr ""
+"Redd Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
+"Schroeder"
 
 #: data/wallpapers.metainfo.xml.in:69
 msgid "Change default to Sunset by the Pier"
-msgstr ""
+msgstr "Cheenge defaut tae “Sunset by the Pier”"
