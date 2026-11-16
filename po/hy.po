@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 13:43+0900\n"
-"PO-Revision-Date: 2026-11-15 21:04+0000\n"
+"PO-Revision-Date: 2026-11-17 22:04+0000\n"
 "Last-Translator: Davit Yedigaryan <davit.yedigaryan.1993@gmail.com>\n"
 "Language-Team: Armenian <https://l10n.elementaryos.org/projects/desktop/"
 "wallpapers-extra/hy/>\n"
@@ -53,34 +53,38 @@ msgstr "Հեռացվել է Julia Craice-ի «Լեռան մոտ թռչող թռ�
 
 #: data/wallpapers.metainfo.xml.in:34
 msgid "Build a special wallpaper for Early Access"
-msgstr ""
+msgstr "Ստեղծվել է հատուկ ետնանկար Early Access-ի համար"
 
 #: data/wallpapers.metainfo.xml.in:42
 msgid "Add \"Photo of Valley\" by Aniket Deole"
-msgstr ""
+msgstr "Ավելացվել է Aniket Deole-ի «Հովտի լուսանկար»-ը"
 
 #: data/wallpapers.metainfo.xml.in:43
 msgid "Remove Jonas Nilsson Lee"
-msgstr ""
+msgstr "Հեռացվել է Jonas Nilsson Lee-ն"
 
 #: data/wallpapers.metainfo.xml.in:51
 msgid "Make Odin Dark the default"
-msgstr ""
+msgstr "Odin Dark-ը դարձվել է լռելյայն"
 
 #: data/wallpapers.metainfo.xml.in:59
 msgid "Add day and night custom Odin wallpapers by Freehive"
-msgstr ""
+msgstr "Ավելացվել են Freehive-ի օրվա և գիշերվա հատուկ Odin ետնանկարները"
 
 #: data/wallpapers.metainfo.xml.in:60
 msgid ""
 "Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs"
 msgstr ""
+"Ավելացվել են Snow-capped Mountain, Martin Adams, Tj Holowaychuk և Vikor "
+"Forgacs"
 
 #: data/wallpapers.metainfo.xml.in:61
 msgid ""
 "Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan "
 "Schroeder"
 msgstr ""
+"Հեռացվել են Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye և "
+"Ryan Schroeder"
 
 #: data/wallpapers.metainfo.xml.in:69
 msgid "Change default to Sunset by the Pier"
